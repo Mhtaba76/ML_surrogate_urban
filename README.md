@@ -1,4 +1,3 @@
 # ML_surrogate_urban
-In This Repo you can see the document and data used in the research conducted by:
-Zahra Rashtian, Mohammad tabatabaei Manesh, Zahra Zomorodian, Mohammad Tahsildoost
+In this repository, you will find the documents and data used in the research conducted by Zahra Rashtian, Mohammad Tabatabaei Manesh, Zahra Zomorodian, and Mohammad Tahsildoost.
 . 
